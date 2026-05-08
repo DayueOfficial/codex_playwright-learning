@@ -10,7 +10,7 @@
 ## 阶段一：基础搭建
 
 - [x] 任务 0：创建 AGENTS.md 和 WORKFLOW.md
-- [ ] 任务 1：初始化 npm 项目，安装 Playwright 依赖
+- [x] 任务 1：初始化 npm 项目，安装 Playwright 依赖
 - [ ] 任务 2：配置 playwright.config.ts（baseURL、浏览器、超时）
 - [ ] 任务 3：编写第一个冒烟测试 - 打开页面验证标题
 - [ ] 任务 4：运行测试，确认在 chromium 中通过
@@ -42,3 +42,6 @@
 
 ## 我的笔记
 - 学习过程中在此记录心得
+
+
+
